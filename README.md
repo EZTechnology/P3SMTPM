@@ -8,5 +8,5 @@ HTML email, maillist from txt
 
 # Usage:
          $nano P3SMTPM.py
-       	 # make changes
+       # make changes
        	 $python3 P3SMTPM.py
