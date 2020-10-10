@@ -8,3 +8,4 @@ HTML email, maillist from txt
 
 # Usage:
 	$ python3 P3SMTPM.py
+	# redact P3SMTPM.py accordingly
