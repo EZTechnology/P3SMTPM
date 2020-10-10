@@ -1,4 +1,5 @@
 # Python 3.5+
+HTML email, maillist from txt
 
 # All in one folder
 <mail.html - Your HTML Email>
