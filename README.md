@@ -1,9 +1,9 @@
 # Python 3.5+
 
-# All in one folder >
+# All in one folder
 <mail.html - Your HTML Email>
 <maillist.txt - Mail List>
 <P3SMTPM.py - script>
 
-# Usage: >
+# Usage:
 	$ python3 P3SMTPM.py
