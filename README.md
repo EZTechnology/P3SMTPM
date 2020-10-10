@@ -7,5 +7,6 @@ HTML email, maillist from txt
 <P3SMTPM.py - script>
 
 # Usage:
-redact file "P3SMTPM.py"
+        $ nano P3SMTPM.py
+	# make changes
 	$ python3 P3SMTPM.py
